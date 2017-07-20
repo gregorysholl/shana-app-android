@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "383053942319",
+    "firebase_url": "https://shana-app.firebaseio.com",
+    "project_id": "shana-app",
+    "storage_bucket": "shana-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383053942319:android:33dd373d9ac85ad2",
+        "android_client_info": {
+          "package_name": "com.gregorysholl.shanaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383053942319-rnsk9th9c7t319929ir15r2kn58ft5n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gregorysholl.shanaapp",
+            "certificate_hash": "ca255ae564b1d8b439dacd9abb81b2fe296e2e29"
+          }
+        },
+        {
+          "client_id": "383053942319-jtcradfum2igufhd68tcn3aoenasfta8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5Cx4NwSbarnXbFfbkNh_VJO6OuOxdejw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383053942319-jtcradfum2igufhd68tcn3aoenasfta8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
